@@ -1,0 +1,48 @@
+.container{
+	margin: 60px;
+	height: 250px;
+	background-color: tomato;
+
+}
+
+h1{
+	font-family: 'Nanum Gothic', sans-serif;
+	font-size: 2em;
+	color: #FFFAF0;
+	font-weight: bold;
+}
+
+section{
+	margin: 15px;
+}
+
+select{
+	border: none;
+	background-color: transparent;
+	color: #FFFAF0;
+}
+
+div{
+	display: inline-block;
+	background-color: #DCDCDC;
+	height: 40px;
+	margin-top: 10px;
+}
+
+input{
+	border: none;
+	background-color: #DCDCDC;
+	padding: 10px;
+}
+
+a{
+	color: inherit;
+}
+
+i{
+	padding: 10px;
+}
+
+.search{
+	background-color: #F8F8FF;
+}
